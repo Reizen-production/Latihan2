@@ -1,4 +1,4 @@
-##Operator Aritmatika
+# Operator Aritmatika
 
 Operator aritmatika termasuk yang sering digunakan dalam pemrograman
 
